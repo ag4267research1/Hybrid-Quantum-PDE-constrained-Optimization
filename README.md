@@ -39,9 +39,11 @@ This leads to three equations:
    $$
 
 3. **Gradient with respect to the control**
+4. 
    $$
    g = \frac{\partial J}{\partial z} = \alpha z - p.
    $$
+   
 
 All equations use homogeneous Dirichlet boundary conditions.
 
